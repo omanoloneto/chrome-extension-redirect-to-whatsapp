@@ -1,0 +1,11 @@
+{
+    "openWhatsAppTel": {
+        "message": "Abrir no WhatsApp"
+    },
+    "openWhatsAppText": {
+        "message": "Abrir no WhatsApp"
+    },
+    "invalidNumber": {
+        "message": "O texto selecionado não é um número de telefone válido."
+    }
+}
